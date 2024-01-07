@@ -1,4 +1,5 @@
-Hi 👋 My name is Sai Kumar Nekkanti
+Hey There!
+My name is Sai Kumar Nekkanti
 ===================================
 
 Full Stack Developer
