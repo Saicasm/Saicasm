@@ -5,12 +5,9 @@ My name is Sai Kumar Nekkanti
 Full Stack Developer
 --------------------
 
-* 🌍  I'm based in Arlington,VA
-* 🖥️  See my portfolio at [Portolio](http://sainekkanti.vercel.app/)
-* ✉️  You can contact me at [sai.nekkanti@outlook.in](mailto:sai.nekkanti@outlook.in)
-* 🚀  I'm currently working on [GoJob](http://github.com/Saicasm/scrapper-service)
-* 🧠  I'm learning Mobile Dev using Flutter
-* ⚡  Open for a Gwent Match ? xD
+* Portfolio at [Portolio](http://sainekkanti.vercel.app/)
+* Contact me at [sai.nekkanti@outlook.in](mailto:sai.nekkanti@outlook.in)
+
 
 ### Skills
 
